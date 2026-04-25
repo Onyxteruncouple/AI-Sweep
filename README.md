@@ -1,7 +1,7 @@
 # 🧹 AI-Sweep v1.0.1
 
 ![Version](https://img.shields.io/badge/version-1.0.1-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
 ![Status](https://img.shields.io/badge/status-active-success)
 
@@ -40,7 +40,7 @@ AI agents and Windows 11 services store their largest digital footprint in tempo
 
 ## Usage
 
-1. Download all files from the repository as a ZIP archive
+1. Download all files from the repository
 2. Extract the folder to any convenient location
 3. Run **AI-Sweep.exe**, it works portably right out of the box
 4. Select the modules you want to clean
